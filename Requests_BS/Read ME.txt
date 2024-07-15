@@ -1,0 +1,4 @@
+The libraries requests, BeautifulSoup, and urllib were used to extract data from task files or from a link.
+
+A spreadsheet was extracted from Wikipedia, and all the medicines found on the WebTeb website were collected. Information such as the name of the medicine, its usage, side effects, properties, and more were documented.
+
